@@ -2,7 +2,8 @@
 You can peak on ecosystem around KodaDot
 
 
-# KodaDot community
+# KodaDot's community channels
+
 - [Substack / Blog](https://kodadot.substack.com/)
 - [Medium](https://medium.com/kodadot)
 - [Discord](https://discord.gg/u6ymnbz4PR)
@@ -12,6 +13,7 @@ You can peak on ecosystem around KodaDot
 - [Youtube](https://www.youtube.com/channel/UCEULduld5NrqOL49k1KVjoA/)
 - [Reddit](https://www.reddit.com/r/KodaDot/)
 
+### KodaDot's ideology
 - [Carbonless NFTs](https://kodadot.xyz/carbonless)
 - [Sustainability](https://kodadot.xyz/sustainability)
 - [Grants](https://kodadot.xyz/grants)
