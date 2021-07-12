@@ -19,5 +19,16 @@ You can peak on ecosystem around KodaDot
 - [Grants](https://kodadot.xyz/grants)
 - [Artist Spotlight](https://kodadot.xyz/spotlight)
 
+### Participation
+
+- [Contribute to the code](https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md)
+- [Help to translate KodaDot](https://github.com/kodadot/nft-gallery/tree/main/src/locales)
+
+### Community resources
+
+- Telegram Stickers
+- Telegram channels 
+
 ### Community writings
+
 - 
