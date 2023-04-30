@@ -1,17 +1,23 @@
 # awesome-kodadot
 You can peak on ecosystem around KodaDot
 
+# Fandom shops demos
+- [Fandom Shop by KodaDot](https://fandom.kodadot.art) - Deno implementation - https://github.com/kodadot/fandom
+- [VueStoreFront + Uniquery](https://github.com/roiLeo/bsx-shop) - https://stupendous-shop.netlify.app/
+- [Next + Uniquery + Vercel](https://polkadot-fandom-page.vercel.app/) - https://polkadot-fandom-page.vercel.app/
+
 
 # KodaDot's community channels
 
 - [Substack / Blog](https://kodadot.substack.com/)
-- [Medium](https://medium.com/kodadot)
-- [Discord](https://discord.gg/u6ymnbz4PR)
+- [Medium](https://blog.kodadot.xyz)
+- [Telegram KodaDot Ecosystem](https://t.me/kodadot_eco)
 - [Telegram](https://t.me/kodadot)
-- [Telegram Chat](https://t.me/kodadot_chat)
+- [Discord](https://discord.gg/u6ymnbz4PR)
 - [Twitter](https://twitter.com/KodaDot)
 - [Youtube](https://www.youtube.com/channel/UCEULduld5NrqOL49k1KVjoA/)
 - [Reddit](https://www.reddit.com/r/KodaDot/)
+- [Merchandise Shop KodaDot](https://shop.kodadot.xyz)
 
 ### KodaDot's ideology
 - [Carbonless NFTs](https://kodadot.xyz/carbonless)
