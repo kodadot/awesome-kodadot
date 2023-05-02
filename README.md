@@ -23,6 +23,9 @@ You can peak on ecosystem around KodaDot - One Stop Shop for Polkadot NFTs
 - [Reddit](https://www.reddit.com/r/KodaDot/)
 - [Merchandise Shop KodaDot](https://shop.kodadot.xyz)
 
+## Media-kit / Press-kit
+- [KodaDot Logos](https://github.com/kodadot/kodadot-presskit)
+
 ### Participation
 
 - [Contribute to the code](https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md)
